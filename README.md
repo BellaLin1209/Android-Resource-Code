@@ -1,0 +1,2 @@
+# AndroidResourceCode
+Android Resource Code
